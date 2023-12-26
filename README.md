@@ -9,7 +9,7 @@
 
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, HTML, CSS, Python, Java,PHP],
+   code: [Javascript, HTML, CSS, Python,PHP],
    technologies: {
       frontEnd: {
          css: ["Bootstrap","Tailwind"]
